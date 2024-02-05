@@ -40,6 +40,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 | [Stanford University](https://online.stanford.edu/programs/computer-science-ms-degree) | | $63,000|
 | [University of Illinois](https://www.coursera.org/degrees/master-of-computer-science-illinois)|Coursera|$21,440|
 | [University of Texas](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses)|[edX](https://www.edx.org/masters/online-master-science-computer-science-utaustinx)|$10,000|
+| [University of London](https://www.coursera.org/degrees/msc-cyber-security-london) (MSc Cyber Security)|Coursera|$11,924.17 – 15,907.31 (£9,445 – £12,600)|
 
 ### Artificial intelligence
 - [University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure) Moodle, Bursary of 10% for UoL BSc alumni
